@@ -35,6 +35,8 @@ I am a passionate Frontend Developer who loves building modern, responsive, and 
 ---
 
 ## 🌐 Connect With Me
+Linkedin- in/sushanta-ranjan-sushil-1443023a5
+Facebook- https://www.facebook.com/share/1BCAVmyXxn/
 
 <p align="center">
   
@@ -45,15 +47,15 @@ I am a passionate Frontend Developer who loves building modern, responsive, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sushantarsushil-hub&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantarsushil-hub&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantarsushil-hub&layout=compact&theme=radical" />
 </p>
 
 ---
