@@ -35,7 +35,9 @@ I am a passionate Frontend Developer who loves building modern, responsive, and 
 ---
 
 ## 🌐 Connect With Me
-Linkedin- in/sushanta-ranjan-sushil-1443023a5
+Linkedin- https://www.linkedin.com/in/sushanta-ranjan-sushil-1443023a5/
+
+
 Facebook- https://www.facebook.com/share/1BCAVmyXxn/
 
 <p align="center">
@@ -62,23 +64,11 @@ Facebook- https://www.facebook.com/share/1BCAVmyXxn/
 
 ## 📌 Pinned Projects
 
-### 🔹 Tourism Website
-A modern tourism website with booking features.  
-🔗 Live: https://your-live-link.com  
-⚙️ Tech: React, Tailwind CSS  
-
----
-
 ### 🔹 Tic Tac Toe Game
 Java Swing GUI-based game with OOP structure.  
-🔗 Live: https://your-live-link.com  
+🔗 Git Link: https://github.com/sushantarsushil-hub/Tic-Tac-Toe   
 ⚙️ Tech: Java, Swing  
 
 ---
 
-### 🔹 Portfolio Website
-Personal portfolio showcasing projects and skills.  
-🔗 Live: https://your-live-link.com  
-⚙️ Tech: React, Tailwind CSS  
 
----
