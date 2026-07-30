@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Sushanta Ranjan Sushil</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
 📍 Chattogram, Bangladesh <br>
@@ -14,23 +14,64 @@
 ---
 
 ## 👨‍💻 About Me
-I am a passionate Frontend Developer who loves building modern, responsive, and user-friendly web applications. I enjoy learning new technologies and solving real-world problems through code.
+Hi, I'm Sushanta Ranjan Sushil, a passionate Full-Stack Developer from Bangladesh. I enjoy building modern, responsive, and scalable web applications that combine clean design with efficient backend functionality.
+
+I like turning ideas into real-world projects and continuously improving my skills by exploring new technologies and best development practices. My goal is to write clean, maintainable code and create applications that provide a great user experience.
 
 ---
 
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js**
-- 💻 Working on a **Tourism Website**
-- 🎨 Improving UI/UX design skills
-- ⚡ Building React-based projects
+🌱 Learning Next.js and advanced full-stack development.
+💻 Building responsive full-stack web applications with React, Node.js, Express.js, and MongoDB.
+🎨 Improving UI/UX skills using Tailwind CSS and modern design principles.
+🔐 Exploring authentication, authorization, and secure backend development.
+⚡ Practicing Data Structures & Algorithms to strengthen problem-solving skills.
+📚 Learning software architecture, REST APIs, and database optimization.
+🚀 Expanding my portfolio with real-world full-stack projects.
+🤝 Contributing to open-source projects and continuously learning from the developer community.
 
 ---
 
 ## 🛠️ Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" />
+### 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
 </p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,docker" />
+</p>
+
 
 ---
 
