@@ -22,14 +22,15 @@ I like turning ideas into real-world projects and continuously improving my skil
 ---
 
 ## 🚀 Current Activities
--🌱 Learning Next.js and advanced full-stack development.
--💻 Building responsive full-stack web applications with React, Node.js, Express.js, and MongoDB.
--🎨 Improving UI/UX skills using Tailwind CSS and modern design principles.
--🔐 Exploring authentication, authorization, and secure backend development.
--⚡ Practicing Data Structures & Algorithms to strengthen problem-solving skills.
--📚 Learning software architecture, REST APIs, and database optimization.
--🚀 Expanding my portfolio with real-world full-stack projects.
--🤝 Contributing to open-source projects and continuously learning from the developer community.
+
+- 🌱 Learning **Next.js** and advanced **Full-Stack Development**.
+- 💻 Building responsive web applications with **React**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🎨 Enhancing UI/UX skills using **Tailwind CSS** and modern design principles.
+- 🔐 Exploring secure authentication, authorization, and backend best practices.
+- ⚡ Practicing **Data Structures & Algorithms** to improve problem-solving skills.
+- 📚 Learning **REST APIs**, software architecture, and database optimization.
+- 🚀 Expanding my portfolio with real-world full-stack projects.
+- 🤝 Contributing to open-source projects and continuously learning from the developer community.
 
 ---
 
