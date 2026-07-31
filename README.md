@@ -255,7 +255,7 @@ A secure **property rental marketplace** that connects property owners and tenan
 
 Property Rental & Booking Platform is a full-stack web application that connects property owners and tenants through a secure rental marketplace. Users can list properties, search rentals, book accommodations, make reservation payments, and manage bookings with role-based access control.
 
-🔗 **Live Website:** 
+🔗 **Live Website:** https://rent-client-five.vercel.app/
 🔗 **Repository:** https://github.com/sushantarsushil-hub/Rent-Client
 
 **Tech Stack**
