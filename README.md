@@ -111,6 +111,17 @@ Facebook- https://www.facebook.com/share/1BCAVmyXxn/
 
 A modern and responsive **eCommerce web application** built with **Next.js**, designed for browsing seasonal products, viewing product details, secure authentication, and personalized user profiles.
 
+## 📖 Overview
+
+SunCart is a modern and responsive summer eCommerce web application built with **Next.js**. It allows users to browse seasonal products, explore detailed product information, securely authenticate, and manage their profiles through a clean and intuitive interface.
+
+---
+
+## 🚀 Live Demo
+
+🔗 Live Website: https://preeminent-tarsier-8d1b1b.netlify.app/
+
+---
 🔗 **Repository:** https://github.com/sushantarsushil-hub/SunCart
 
 **Tech Stack**
