@@ -115,13 +115,7 @@ A modern and responsive **eCommerce web application** built with **Next.js**, de
 
 SunCart is a modern and responsive summer eCommerce web application built with **Next.js**. It allows users to browse seasonal products, explore detailed product information, securely authenticate, and manage their profiles through a clean and intuitive interface.
 
----
-
-## 🚀 Live Demo
-
-🔗 Live Website: https://preeminent-tarsier-8d1b1b.netlify.app/
-
----
+🔗 **Live Website:**  https://preeminent-tarsier-8d1b1b.netlify.app/
 🔗 **Repository:** https://github.com/sushantarsushil-hub/SunCart
 
 **Tech Stack**
@@ -130,6 +124,53 @@ SunCart is a modern and responsive summer eCommerce web application built with *
 * **Authentication:** Better Auth, Google OAuth
 * **Animation:** Animate.css, Lottie, React Spring
 
+## ✨ Main Features
+
+- 🛍️ Browse summer products
+- 🔍 Product details page
+- 🔐 Secure authentication
+- 👤 User profile management
+- 📱 Fully responsive design
+- ⚡ Fast performance with Next.js App Router
+- 🎨 Modern UI with Tailwind CSS
+
+## 📦 Dependencies
+
+- Next.js
+- React
+- Tailwind CSS
+- DaisyUI
+- HeroUI
+- Better Auth
+- Lottie React
+- React Spring
+- Animate.css
+
+## ⚙️ Run Locally
+
+Clone the repository
+
+```bash
+git clone https://github.com/sushantarsushil-hub/SunCart
+```
+
+Go to the project directory
+
+```bash
+cd SunCart
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run the development server
+
+```bash
+npm run dev
+```
 ---
 
 ### 🩺 DocAppoint – Doctor Appointment Manager
